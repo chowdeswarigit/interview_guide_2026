@@ -1,0 +1,1 @@
+Create a debounced input component that waits for the user to stop typing for 500ms before making any action (like logging the value). Implement the logic using a custom hook useDebounce.
